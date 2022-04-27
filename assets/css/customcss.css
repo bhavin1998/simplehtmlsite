@@ -1,0 +1,31 @@
+.herobanner {
+    background-image: url("../../Images/Homepage1/Rectangle.png");
+    color: #ffffff;
+    background-repeat: no-repeat;
+    height: 700px;
+    background-size: cover;
+}
+
+.logo {
+    width: 152px;
+    height: 45px;
+    mix-blend-mode: screen;
+}
+
+.bannercontent {
+    position: absolute;
+    width: 595px;
+    height: 180px;
+    left: 99px;
+    top: 213px;
+    
+}
+
+.bannertext {
+    font-family: 'Krona One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 60px;
+    text-transform: uppercase;
+}
